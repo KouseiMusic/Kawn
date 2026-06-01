@@ -42,9 +42,5 @@ _<p align="center">Granular Looper & Synthesis Engine.</p>_
 
 ---
 
-_This software and plugins are free. Don't forget to give it a ⭐ on Github if you liked the project._
-
----
-
 <p align="center"><code>𝒦𝑜𝓊𝓈𝑒𝒾</code></p>
 <p align="center"><code>2026</code></p>
