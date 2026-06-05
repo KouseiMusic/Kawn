@@ -26,7 +26,7 @@ _<p align="center">Granular Looper & Synthesis Engine.</p>_
 ## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
-- **Architecture**: Intel & Apple Silicon.
+- **Architecture**: Intel, Arm64 (Silicion) & U2B (Universal).
 - **DAW**: Ableton Live 12+
 
 ---
