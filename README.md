@@ -1,6 +1,6 @@
 <p align="center"><img width="224" height="89" alt="Kawnbanner" src="https://github.com/user-attachments/assets/c6e0a260-7842-4310-857c-6a27d800bf56" /></p>
 
-_<p align="center">Granular Looper & Synthesis Engine.</p>_
+_<p align="center">Granular Looper, Glitch Effect & Multi Delay.</p>_
 
 ---
 
