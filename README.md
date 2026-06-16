@@ -12,6 +12,10 @@ _<p align="center">Granular Looper & Synthesis Engine.</p>_
 
 ---
 
+_<p align="center">This software is only available in my musical releases. It is included alongside the tracks as a direct download link.</p>_ 
+
+---
+
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **Granular Synthesis Core**: High-precision grain scanning and cloud density controls for textural exploration.
