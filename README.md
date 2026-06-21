@@ -20,6 +20,8 @@ _<p align="center">This software is only available in my musical releases. It is
 
 - **Granular Synthesis Core**: High-precision grain scanning and cloud density controls for textural exploration.
 - **Celestial Map**: Nebula monochromatic interface.
+- **Port of the [Microcosm](https://www.hologramelectronics.com/pages/microcosm) from Hologram Electronics**: <br> <img width="200" height="137" alt="Microcosm" src="https://github.com/user-attachments/assets/69844ccd-9098-4e68-90a5-d8f5a9e373cd" />
+
 - **Audio-Reactive Viewport**: A star field that pulsates and vibrates based on real-time synthesis telemetry.
 - **Stellar Interaction**: Constellation knobs designed for vertical-drag precision.
 - **Celestial Navigation**: Instantly swap between four unique engine profiles: Lyra, Cygnus, Orion and Scorpius.
@@ -43,6 +45,10 @@ _<p align="center">This software is only available in my musical releases. It is
 - **CYGNUS**: Mosaic imaging. Wide spatial distribution of grains for shifting textures.
 - **ORION**: Atmospheric synthesis. Hazy, overlapping grain clouds designed for drones and pads.
 - **SCORPIUS**: Experimental "Strumming." Sharp transients and aggressive grain positioning.
+
+---
+
+_This software is not affiliated with Hologram Electronics._
 
 ---
 
